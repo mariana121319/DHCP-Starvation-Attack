@@ -194,7 +194,14 @@ Para documentar este ataque, recomiendo incluir las siguientes capturas:
 
 ## Captura 2 – Kali ejecutando el ataque
 <img width="762" height="421" alt="image" src="https://github.com/user-attachments/assets/c0761228-1b5e-48b1-9f91-b920845fe10d" />
- 
+
+## Captura 3 – Router después del ataque
+<img width="751" height="436" alt="image" src="https://github.com/user-attachments/assets/9de5ec65-e259-41c7-afe8-1112f9866fe0" />
+<img width="738" height="407" alt="image" src="https://github.com/user-attachments/assets/3701c8ec-cf95-4554-a489-26c777144b78" />
+
+## Captura 4 – PC víctima sin IP
+<img width="632" height="330" alt="image" src="https://github.com/user-attachments/assets/977a2845-9afb-4a1e-8d12-85e91834f39f" />
+
 ---
 
 ## 🛡️ Medidas de Mitigación
@@ -325,15 +332,8 @@ Solo realicé estas pruebas en mi propio laboratorio virtualizado con equipos qu
 
 ---
 
-## 📚 Referencias
-
-- RFC 2131: Dynamic Host Configuration Protocol
-- Cisco IOS Security Configuration Guide - DHCP Snooping
-- Scapy Documentation: https://scapy.readthedocs.io/
-
----
-
-**Autor:** mariana121319  
+**Autor:** Mariana Doñe Lara
+**Matricula** 2024-1200
 **Fecha:** 2026-02-11  
 **Entorno:** PNETLab con Cisco vIOS  
 **Versión:** 1.0

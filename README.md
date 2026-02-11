@@ -189,12 +189,12 @@ Observé un incremento masivo en los mensajes DHCPDISCOVER recibidos.
 
 Para documentar este ataque, recomiendo incluir las siguientes capturas:
 
-1. **Captura 1:** Ejecución del script en Kali Linux mostrando el progreso del ataque
-2. **Captura 2:** Salida del comando `show ip dhcp binding` en el router con múltiples MACs falsas
-3. **Captura 3:** Salida del comando `show ip dhcp pool` mostrando el pool agotado
-4. **Captura 4:** Wireshark/tcpdump capturando los paquetes DHCP DISCOVER en tránsito
-5. **Captura 5:** PC Windows intentando obtener IP y fallando (sin dirección IP disponible)
+## Captura 1 – Estado inicial del DHCP (Antes del ataque)
+<img width="789" height="429" alt="image" src="https://github.com/user-attachments/assets/aa5f688a-b874-48bb-8060-7a5b292e6d46" />
 
+## Captura 2 – Kali ejecutando el ataque
+<img width="762" height="421" alt="image" src="https://github.com/user-attachments/assets/c0761228-1b5e-48b1-9f91-b920845fe10d" />
+ 
 ---
 
 ## 🛡️ Medidas de Mitigación

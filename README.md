@@ -333,9 +333,7 @@ Solo realicé estas pruebas en mi propio laboratorio virtualizado con equipos qu
 ---
 
 **Autor:** Mariana Doñe Lara
-
 **Matricula** 2024-1200
-
 **Fecha:** 2026-02-11  
 **Entorno:** PNETLab con Cisco vIOS  
 **Versión:** 1.0
